@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi, everyone!
+
+I'm susu working at akita in Japan
+I've been started studying programming.
